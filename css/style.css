@@ -87,7 +87,7 @@ gameright {
 gameleft {
 	width: 20%;
 	position: left;
-	min-height: 300px;
+	min-height: 200px;
 	background-color: #6e6e6e;
 	font-family: 'Rowdies', cursive;
 
